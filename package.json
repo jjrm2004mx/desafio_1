@@ -1,0 +1,29 @@
+{
+  "name": "desafio_1",
+  "version": "1.0.0",
+  "description": "inicializar proyecto e instalar dependencias nodejs y prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjrm2004mx/desafio_1.git"
+  },
+  "keywords": [
+    "desafio_1"
+  ],
+  "author": "José de Jesús Rosales Muñoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjrm2004mx/desafio_1/issues"
+  },
+  "homepage": "https://github.com/jjrm2004mx/desafio_1#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "prettier": "^3.4.1"
+  },
+  "dependencies": {
+    "puppeteer": "^23.9.0"
+  }
+}
